@@ -499,6 +499,8 @@ N/A
 
 <br>
 
+**Palni Kundra**, Anna Greppi, Monica Duppenthaler,Serafina Plüss Benoit Pugin, Christophe Lacroix, Annelies Geirnaert. Vitamin B12 analogues from gut microbes and diet differentially impact commensal propionate producers of the human gut. **2024**. *Frontiers in Nutrition*. <i class="ai ai-doi"></i>: [10.3389/fnut.2024.1360199](https://doi.org/10.3389/fnut.2024.1360199)
+
 **Palni Kundra**, Annelies Geirnaert, Benoit Pugin, Paola Morales Martinez, Christophe Lacroix, Anna Greppi. Healthy adult gut microbiota sustains its own vitamin B12 requirement in an in vitro batch fermentation model. **2022**. *Frontiers in Nutrition*. <i class="ai ai-doi"></i>: [10.3389/fnut.2022.1070155](https://doi.org/10.3389/fnut.2022.1070155)
 
 
@@ -514,8 +516,6 @@ N/A
 N/A
 
 <br>
-
-[Submitted to _Frontiers in Nutrition_]{style="position:absolute;left:calc(var(--main-width) + var(--sidebar-horizontal-padding));"} **Palni Kundra**, Anna Greppi, Monica Duppenthaler,Serafina Plüss Benoit Pugin, Christophe Lacroix, Annelies Geirnaert. Vitamin B12 analogues from gut microbes and diet differentially impact commensal propionate producers of the human gut.
 
 **Palni Kundra**, Annelies Geirnaert, Benoit Pugin, Serafina Plüss, Susanna Kariluoto, Christophe Lacroix, Anna Greppi. Effect of microbially-produced vitamin B9 on the growth and metabolism of human gut microbes.
 
