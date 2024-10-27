@@ -34,19 +34,39 @@ Aside
 knitr::include_graphics("pk.jpg")
 ```
 
-About {#skills}
+AWARDS AND MEDALS  {#skills}
 --------
 
-I am dedicated to contributing to scientific community through my expertise in multidisciplinary academic background.
+**Gold medal** (Bachelor Studies)
+University topper
+2015
+
+**Poster presentation award**
+Second prize, Green tea ice cream
+Presented at science exhibition
+2015
 
 
-Skills {#skills}
+Computational Skills {#skills}
 --------------------------------------------------------------------------------
 
 - **Bioinformatics skills:** metagenomic data analysis
 - **Programming:** R, Bash
 - **Version control:** git
 - **Project management:** GitHub
+
+Languages {#skills}
+-------------------------------------------------------------------------------
+
+- English (Native, C1)<br>
+- German (Written A2, spoken B1)
+- Hindi (Native)
+- Punjabi (Native)
+
+Contact Info {#contact}
+--------------------------------------------------------------------------------
+- <i class="fa fa-envelope"></i> <a href="mailto:palni.kundra@gmail.com">palnikundra@gmail.com</a>
+- <i class="fa fa-phone"></i> +41 77 993 58 99
 
 
 More Info {#contact}
@@ -61,19 +81,6 @@ More Info {#contact}
 - <i class="fa fa-github"></i> [pkundra](https://github.com/pkundra)
 
 
-Languages {#skills}
--------------------------------------------------------------------------------
-
-- English (Native, C1)<br>
-- German (A1)
-- Hindi (Native)
-- Punjabi (Native)
-
-Contact Info {#contact}
---------------------------------------------------------------------------------
-- <i class="fa fa-envelope"></i> <a href="mailto:palni.kundra@hest.ethz.ch">pkundra@ethz.ch</a>
-- <i class="fa fa-phone"></i> +41 77 993 58 99
-
 
 Main
 ================================================================================
@@ -81,24 +88,28 @@ Main
 Palni Kundra {#title}
 --------------------------------------------------------------------------------
 
-### Biotechnology, Microbiology, Microbiome, Food Science
+### Biotechnology, Food Science, Microbiology, Nutrition, Vitamins, Metabolomics
 
 
-#### KEY COMPETENCIES
+PERSONAL STATEMENT
+--------------------------------------------------------------------------------
+As a Scientist with a Ph.D. in gut microbial biotechnology from ETH Zurich, I bring 7 years of research experience to the pharmaceutical industry. I possess in-depth knowledge of complex biological systems, and extensive hands-on experience in protocol development, molecular and analytical methods. My strong track record includes executing experiments from design to data analysis, bolstered by effective collaboration skills I have developed through work in international research teams. As a published researcher, I excel in communication and am proficient in advanced data analysis and bioinformatics tools. My goal is to apply my multidisciplinary expertise and innovative approach to advance scientific discovery through development, transforming research insights into practical pharmaceutical solutions that further scientific knowledge and product development.
 
-- In-depth knowledge across various scientific disciplines, including food science, nutrition, gastroenterology, microbiology, biotechnology and biology
-- Proficient in translating complex scientific concepts into clear, engaging content
-- Proficient in designing, implementing, and executing research projects, spanning laboratory techniques and bioinformatics for scientific solutions
-- Skilled at translating scientific findings into actionable recommendations
-- Poven ability to collaborate with interdisciplinary teams, fostering project success
-- Deep-seated desire for contributing to the scientific community
+
+Key Competencies
+--------------------------------------------------------------------------------
+- Possess in-depth knowledge across various scientific disciplines, including food science, microbiology, nutrition, gastroenterology, probiotics, biotechnology and biology.
+- Proficient in translating complex scientific concepts into clear, engaging content, as well as translating scientific findings into actionable next steps.
+- Proficient in designing, implementing, and executing research projects, encompassing laboratory techniques, statistics and bioinformatics.
+- Proven ability to collaborate effectively with internal and external teams.
+
 
 Education {data-icon=graduation-cap}
 --------------------------------------------------------------------------------
 
 ### ETH Zurich
 
-Doctoral student
+Doctorate (Ph.D., Dr. sc.)
 
 Zurich, Switzerland
 
@@ -147,12 +158,12 @@ Zurich, Switzerland
 
 Sep 2018 - Jun 2023
 
-::: concise
 - **Supervisor:** Prof. Dr. Christophe Lacroix
-- Microbiome and Metagenomics
-- Bioinformatics
-- Supervising students
-:::
+- Completed a multi-year research project investigating the modulatory potential of dietary and gut-microbially produced vitamin B9 and B12 on the complex gut microbiota, as well as on single next generation probiotic gut microbes.
+- Led the planning and execution of laboratory experiments, developed experimental and analytical methods (UHPLC-UV/MS), and analyzed metagenomic and other data types.
+- Completed project deliverables by preparing research findings for publication in scientific journals.
+- Presented research findings at scientific conferences, effectively communicating complex scientific concepts to diverse audiences.
+- Mentored Bachelor’s and Master’s students throughout their thesis projects, and facilitated a semester laboratory course, enhancing hands-on learning experiences.
 
 ### Graduate research project
 
@@ -162,12 +173,10 @@ Montréal, Canada
 
 May-Sep 2017
 
-::: concise
 - __Supervisor:__ Prof. Jennifer Ronholm
-- SNP based analysis
-- Food-borne outbreak investigation
-- Whole-genome sequencing analysis
-:::
+- Conducted whole-genome SNP-based analysis to identify changes under laboratory
+conditions in major foodborne pathogens responsible for global outbreaks.
+- Provided support for preparing the manuscript for publication.
 
 ### Student research assistant
 
@@ -177,12 +186,10 @@ Amritsar, India
 
 Jan-Feb 2015
 
-::: concise
 - __Supervisor:__ Prof. Pankaj Gupta
-- Innovative food product development
-- Green tea icecream
-- Organoleptic evaluation
-:::
+- Developed an innovative food product - Green tea ice cream.
+- Performed sensory and organoleptic evaluation.
+- Presented the product at scientific conference.
 
 ### Student research assistant
 
@@ -192,11 +199,8 @@ Amritsar, India
 
 Jul 2014 - Mar 2015
 
-::: concise
 - __Supervisor:__ Prof. Bhartendu Singla
-- Various soy-based food products
-- Innovative gluten-free product development
-:::
+- Developed various innovative soy-based food products to enhance gluten-free product.
 
 ### Research internship
 
@@ -206,43 +210,75 @@ Ludhiana, India
 
 May-Jun 2013
 
-::: concise
 - __Supervisor:__ Dr. Pranita Jaiswal
-- Soy-milk adulteration detection in cow milk
-- Spectrophotometer analysis
-- Non-destructive QC approach
-:::
+- Applied a non-destructive quality control approach to a develop spectrophotometeric method for the detection of Soy-milk adulteration in cow milk.
+- Performed spectrophotometer analysis.
 
 
-Medals and Awards {data-icon=award}
--------------------------------------------------------------
+### Industrial internship
 
-:::aside1
-**CHECK MY PUBLICATIONS**
+Markfed Canneries 
 
-[Link](https://pkundra.github.io/cv/publications_PK.pdf)
-<br><br>
-Scan
-<br><br>
-![Semester course](pub.png)
-:::
+Jalandhar, India
 
-### Gold medal
+Jun 2013 &<br>Jul 2014
 
-Bachelor of Food Science and Technology _University topper_
+- Performed microbiological testing and applied quality control assurance techniques.
+
+### Industrial internship
+
+Verka Milk plant 
+
+Jalandhar, India
+
+Jun-Jul 2013
+
+- Performed microbiological testing and applied quality control assurance techniques.
+
+Scientific Publications {data-icon=file}
+--------------------------------------------------------------------------------
+### Peer-reviewed Publications
+N/A
 
 N/A
 
-2015
+N/A
 
 
-### Poster presentation award (Second prize)
+**Palni Kundra**, Annelies Geirnaert, Benoit Pugin, Serafina Plüss, Susanna Kariluoto, Christophe Lacroix, Anna Greppi. Microbially-produced folate forms support the growth of Roseburia intestinalis but not its competitive fitness in fecal batch fermentations. **2024**. *BMC microbiology*. <i class="ai ai-doi"></i>: [10.1186/s12866-024-03528-6](https://doi.org/10.1186/s12866-024-03528-6)
 
-Green tea ice cream _Presented at science exhibition_
+**Palni Kundra**, Anna Greppi, Monica Duppenthaler, Serafina Plüss, Benoit Pugin, Christophe Lacroix, Annelies Geirnaert. Vitamin B12 analogues from gut microbes and diet differentially impact commensal propionate producers of the human gut. **2024**. *Frontiers in Nutrition*. <i class="ai ai-doi"></i>: [10.3389/fnut.2024.1360199](https://doi.org/10.3389/fnut.2024.1360199)
+
+**Palni Kundra**, Annelies Geirnaert, Benoit Pugin, Paola Morales Martinez, Christophe Lacroix, Anna Greppi. Healthy adult gut microbiota sustains its own vitamin B12 requirement in an in vitro batch fermentation model. **2022**. *Frontiers in Nutrition*. <i class="ai ai-doi"></i>: [10.3389/fnut.2022.1070155](https://doi.org/10.3389/fnut.2022.1070155)
+
+**Palni Kundra**, Carole Rachmühl, Christophe Lacroix, Annelies Geirnaert. Role of dietary micronutrients on gut microbial dysbiosis and modulation in inflammatory bowel disease. **2021**. *Molecular Nutrition & Food Research*. <i class="ai ai-doi"></i>: [10.1002/mnfr.201901271](https://doi.org/10.1002/mnfr.201901271)
+
+Nicholas Petronella, **Palni Kundra**, Olivia Auclair, Karine Hébert, Mary Rao, Kyle Kingsley, Katrien De Bruyne, Swapan Banerjee, Alexander Gill, Franco Pagotto, Sandeep Tamber, Jennifer Ronholm. Changes detected in the genome sequences of Escherichia coli, Listeria monocytogenes, Vibrio parahaemolyticus, and Salmonella enterica after serial subculturing. **2019**. *Canadian Journal of Microbiology*. <i class="ai ai-doi"></i>: [10.1139/cjm-2019-0235](https://doi.org/10.1139/cjm-2019-0235)
+
+
+
+
+Theses {data-icon=graduation-cap}
+--------------------------------------------------------------------------------
+
+### Doctor of Sciences
+
+**Palni Kundra**, 2023. Dr. sc. Thesis. The effect of exogenous and endogenous vitamin B9 and B12 on microbial growth and metabolism in the human gut. <i class="ai ai-doi"></i>: [10.3929/ethz-b-000641198](https://doi.org/10.3929/ethz-b-000641198)
 
 N/A
 
-2015
+Jun 2023
+
+
+### Master of Science
+
+**Palni Kundra**, 2018. M.Sc. Research project. Single Nucleotide Polymorphisms in major food-borne pathogens.
+
+N/A
+
+Jan 2018
+
+
 
 
 Mentoring{data-icon=user-friends}
@@ -359,10 +395,28 @@ Jan<br>2015
 Poster
 :::
 
-<br><br>
 
 Workshops/ courses (not on transcripts) {data-icon=chalkboard-teacher .break-after-me}
 --------------------------------------------------------------------------------
+### Interpretation and Application of ICH E6(R2) by Multi-Regional Clinical Trails (MRCT)
+
+The MRCT Center of Brigham and Women's Hospital and Harvard
+
+(Online), Switzerland
+
+2024
+
+### A practical introduction to bioinformatics and RNA-seq using Galaxy
+
+Galaxy Training Network
+
+(Online), Switzerland
+
+2024
+
+:::concise
+Sequencing, quality control and reference based mapping, Differential gene expression, DESeq2, Bioinformatic and RNA-seq data analysis on Galaxy Platform.
+:::
 
 ### PMDA Summer School
 
@@ -373,7 +427,7 @@ Basel, Switzerland
 2023
 
 :::concise
-Predictive modelling and data analytics summer school to solve problems in drug discovery and development
+Predictive modelling and data analytics summer school to solve problems in drug discovery and development.
 :::
 
 
@@ -386,7 +440,7 @@ Zurich, Switzerland
 2022
 
 :::concise
-Project risk management, project management
+Project risk management, project management.
 :::
 
 ### Scientific poster design
@@ -398,7 +452,7 @@ Zurich, Switzerland
 2021
 
 :::concise
-content structure, typography do's and don'ts, design principles, design grids, design tools, image editing, perception, color theory
+content structure, typography do's and don'ts, design principles, design grids, design tools, image editing, perception, color theory.
 :::
 
 ### Energy and stress management: How to perform in the storm
@@ -410,7 +464,7 @@ Zurich, Switzerland
 2021
 
 :::concise
-Energy management, understand obstacles and overcome them, achieve targeted change
+Energy management, understand obstacles and overcome them, achieve targeted change.
 :::
 
 
@@ -423,7 +477,7 @@ Zurich, Switzerland
 2021
 
 :::concise
-Assess habits, values, goals, energy, and time management techniques
+Assess habits, values, goals, energy, and time management techniques.
 :::
 
 ### Leadership skills for PhD Candidates 
@@ -435,7 +489,7 @@ Zurich, Switzerland
 2021
 
 :::concise
-Management, leadership, needs analysis, behavior, destructive leadership, and case studies
+Management, leadership, needs analysis, behavior, destructive leadership, and case studies.
 :::
 
 ### Statistics for Experimental Research
@@ -447,7 +501,7 @@ Zurich, Switzerland
 2020
 
 :::concise
-Experimental designs, statistical analyses using R, report analyses and results in a scientifically appropriate manner
+Experimental designs, statistical analyses using R, report analyses and results in a scientifically appropriate manner.
 :::
 
 
@@ -460,7 +514,7 @@ Zurich, Switzerland
 2018
 
 :::concise
-Metabolomics overview, and data analysis and interpretation
+Metabolomics overview, and data analysis and interpretation.
 :::
 
 ### Introduction to genomic analysis
@@ -472,7 +526,7 @@ Compute Canada & University of British Columbia
 2017
 
 :::concise
-UNIX programming, alignment, Variant calling and annotation, data visualization, and RNA-Seq including statistical analysis
+UNIX programming, alignment, Variant calling and annotation, data visualization, and RNA-Seq including statistical analysis.
 :::
 
 ### 36<sup>th</sup> Post-harvest technology - short course
@@ -484,60 +538,7 @@ Davis, USA
 2014
 
 :::concise
-Crops handling and harvesting systems
+Advanced Crops handling and harvesting systems.
 :::
-
-
-Publications {data-icon=file}
---------------------------------------------------------------------------------
-
-### Published papers
-
-N/A
-
-N/A
-
-<br>
-
-**Palni Kundra**, Anna Greppi, Monica Duppenthaler,Serafina Plüss Benoit Pugin, Christophe Lacroix, Annelies Geirnaert. Vitamin B12 analogues from gut microbes and diet differentially impact commensal propionate producers of the human gut. **2024**. *Frontiers in Nutrition*. <i class="ai ai-doi"></i>: [10.3389/fnut.2024.1360199](https://doi.org/10.3389/fnut.2024.1360199)
-
-**Palni Kundra**, Annelies Geirnaert, Benoit Pugin, Paola Morales Martinez, Christophe Lacroix, Anna Greppi. Healthy adult gut microbiota sustains its own vitamin B12 requirement in an in vitro batch fermentation model. **2022**. *Frontiers in Nutrition*. <i class="ai ai-doi"></i>: [10.3389/fnut.2022.1070155](https://doi.org/10.3389/fnut.2022.1070155)
-
-
-**Palni Kundra**, Carole Rachmühl, Christophe Lacroix, Annelies Geirnaert. Role of dietary micronutrients on gut microbial dysbiosis and modulation in inflammatory bowel disease. **2021**. *Molecular Nutrition & Food Research*. <i class="ai ai-doi"></i>: [10.1002/mnfr.201901271](https://doi.org/10.1002/mnfr.201901271)
-
-Nicholas Petronella, **Palni Kundra**, Olivia Auclair, Karine Hébert, Mary Rao, Kyle Kingsley, Katrien De Bruyne, Swapan Banerjee, Alexander Gill, Franco Pagotto, Sandeep Tamber, Jennifer Ronholm. Changes detected in the genome sequences of Escherichia coli, Listeria monocytogenes, Vibrio parahaemolyticus, and Salmonella enterica after serial subculturing. **2019**. *Canadian Journal of Microbiology*. <i class="ai ai-doi"></i>: [10.1139/cjm-2019-0235](https://doi.org/10.1139/cjm-2019-0235)
-
-
-### In preparation
-
-N/A
-
-N/A
-
-<br>
-
-**Palni Kundra**, Annelies Geirnaert, Benoit Pugin, Serafina Plüss, Susanna Kariluoto, Christophe Lacroix, Anna Greppi. Effect of microbially-produced vitamin B9 on the growth and metabolism of human gut microbes.
-
-
-Theses {data-icon=graduation-cap}
---------------------------------------------------------------------------------
-
-### Doctor of Sciences
-
-**Palni Kundra**, 2023. Dr. sc. Thesis. The effect of exogenous and endogenous vitamin B9 and B12 on microbial growth and metabolism in the human gut. <i class="ai ai-doi"></i>: [10.3929/ethz-b-000641198](https://doi.org/10.3929/ethz-b-000641198)
-
-N/A
-
-Jun 2023
-
-
-### Master of Science
-
-**Palni Kundra**, 2018. M.Sc. Thesis. Single Nucleotide Polymorphisms in major food-borne pathogens.
-
-N/A
-
-Jan 2018
 
 
